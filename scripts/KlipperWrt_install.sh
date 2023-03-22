@@ -48,7 +48,7 @@ choose(){
 	   echo "**     Downloading...    **"
 	   echo "***************************"
 	   echo " "
-	   wget -O /mnt/fluiddWrt.tar.gz https://github.com/ihrapsa/KlipperWrt/releases/latest/download/fluiddWrt.tar.gz;
+	   wget -O /mnt/fluiddWrt.tar.gz https://github.com/jacob210/KlipperWrt/releases/download/KlipperWrt/fluiddWrt.tar.gz;
 	   
 	   
 	   echo "***************************"
